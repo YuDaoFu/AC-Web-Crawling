@@ -21,7 +21,7 @@ Ideally, there will ultimately be a script/program for each website, but to star
 
 ---
 
-The JapanesePaper folder contains the web crawling script for downloading the raw data from websites including report number, link, author and etc. 
+**JapanesePaper** folder contains the web crawling script for downloading the raw data from websites including report number, link, author and etc. 
 
-ACnotebook folder contains the ipynb file for data cleaning and pdf downloading: It returns 3 csv files: cleaned metadata as required, the outliers need to be handled manually and files which have a indirect downloadable link.
+**ACnotebook** folder contains the ipynb file for data cleaning and pdf downloading: It returns 3 csv files: cleaned metadata as required, the outliers need to be handled manually and files which have a indirect downloadable link.
 
