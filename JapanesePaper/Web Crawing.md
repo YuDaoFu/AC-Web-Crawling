@@ -6,4 +6,6 @@ To get raw data output as CSV format: Open Terminal, get into the working direct
 
 **scrapy crawl japaneseAC -o dataset_name.csv**
 
-![demo](demo.jpg =100x20)
+[<img src="demo.jpg" width="600"/>](demo.jpg)
+
+
