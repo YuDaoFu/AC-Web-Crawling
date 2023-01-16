@@ -25,3 +25,32 @@ Ideally, there will ultimately be a script/program for each website, but to star
 
 **ACnotebook** folder contains the ipynb file for data cleaning and pdf downloading: It returns 3 csv files: cleaned metadata as required, the outliers need to be handled manually and files which have a indirect downloadable link.
 
+---
+
+Required Package: **Scrapy**
+
+To install Scrapy using conda, run:
+```
+conda install -c conda-forge scrapy
+```
+Alternatively, if you’re already familiar with installation of Python packages, you can install Scrapy and its dependencies from PyPI with:
+```
+pip install Scrapy
+```
+
+To get raw data output as CSV format: Open Terminal, get into the working directory of JapanesePaper 
+```
+cd /Users/user_name/Documents/WebScraper/JapanesePaper
+```
+then type in: 
+
+```
+scrapy crawl japaneseAC -o dataset_name.csv
+```
+Like the below image:
+
+
+[<img src="demo.jpg" width="600"/>](demo.jpg)
+
+
+
