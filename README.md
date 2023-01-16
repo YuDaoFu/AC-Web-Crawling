@@ -50,7 +50,7 @@ scrapy crawl japaneseAC -o dataset_name.csv
 Like the below image:
 
 
-[<img src="demo.jpg" width="600"/>](demo.jpg)
+[<img src="image.png" width="600"/>](image.png)
 
 
 
